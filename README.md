@@ -1,4 +1,4 @@
-# nasin-sitelen-pona-tawa-ilo-Pajiki-luka
+# nasin-sitelen-pona-tawa-ilo-Paliki-luka
 A toki pona sitelen pona IME for Fcitx5, compactible with [nasin-nanpa](https://github.com/etbcor/nasin-nanpa) 5.0 and above. sitelen Lasina taso.
 
 # Installation
